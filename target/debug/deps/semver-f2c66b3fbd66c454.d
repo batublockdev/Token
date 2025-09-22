@@ -1,0 +1,12 @@
+/home/breiner/stellar-theseBaremine/token/target/debug/deps/semver-f2c66b3fbd66c454.d: /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/lib.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/backport.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/display.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/error.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/eval.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/identifier.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/impls.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/parse.rs
+
+/home/breiner/stellar-theseBaremine/token/target/debug/deps/libsemver-f2c66b3fbd66c454.rmeta: /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/lib.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/backport.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/display.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/error.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/eval.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/identifier.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/impls.rs /home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/parse.rs
+
+/home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/lib.rs:
+/home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/backport.rs:
+/home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/display.rs:
+/home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/error.rs:
+/home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/eval.rs:
+/home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/identifier.rs:
+/home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/impls.rs:
+/home/breiner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-1.0.23/src/parse.rs:
